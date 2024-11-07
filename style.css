@@ -15,9 +15,7 @@ body {
     align-items: center;
     overflow: hidden;
 }
-/* img {
-  width: 50%;
-} */
+
 .container {
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
